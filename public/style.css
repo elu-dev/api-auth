@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    overflow: hidden;
+}
+
+button {
+    margin: 20px 10px;
+    padding: 5px 10px;
+}
+
+#req0 {
+    color: #008d2a;
+    background-color: #b6ffcc;
+    border: 1px solid #008d2a;
+}
+#req1 {
+    color: #006c8d;
+    background-color: #b8eeff;
+    border: 1px solid #006d8f;
+}
+#logout {
+    color: #8d0000;
+    background-color: #ffb8b8;
+    border: 1px solid #8f0000;
+}
